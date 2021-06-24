@@ -1,0 +1,36 @@
+.card_container{
+    max-width: 180px;
+    margin: 20px 0;
+}
+
+.card_img{
+    border-radius: 12px;
+    width: 180px;
+    height: 150px;
+}
+
+.card_content{
+    margin-top: 10px;
+}
+
+.card_title{
+    font-family: Objectivity;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 25px;
+    text-align: center;
+}
+
+.card_name{
+    font-family: Objectivity;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 136%;
+    /* or 24px */
+
+    text-align: center;
+
+    color: #707070;
+}

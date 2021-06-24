@@ -1,0 +1,45 @@
+.branding-heading{
+    font-family: Objectivity;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 33px;
+    color: #000000;
+    margin-bottom: 30px;
+}
+
+.services-text{
+    font-family: Objectivity;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 136%;
+    color: #000000;
+}
+
+.checkbox-option{
+    font-family: Objectivity;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 136%;
+    fill: #000000;
+    margin-left: 10px;
+}
+input[type="checkbox" i]{
+    background-color: #000000;
+}
+
+.next-btn-new-project1{
+    font-family: Objectivity;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 25px;
+    width: 530px;
+    height: 55px;
+    left: 660px;
+    top: 588px;
+    background: #CCCCCC;
+    border-radius: 8px;
+}

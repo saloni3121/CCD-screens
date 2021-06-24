@@ -1,0 +1,37 @@
+.create_title{
+    font-family: Objectivity;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 33px;
+    color: #000000;
+    text-align: center;
+    margin: 30px auto;
+}
+
+.mainCard_container{
+    border-radius: 12px;
+    width: 180px;
+    height: 150px;
+    border-color: transparent;
+    border: 2px dotted #000;
+    margin: 20px 0;
+    display:flex;
+    justify-content:center;
+    align-items:center
+}
+
+.add_icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    font-size: large;
+}
+.card_img{
+    color: transparent;
+}
+.mainCard_content{
+    margin-left: -40px;
+    margin-top: -10px;
+}

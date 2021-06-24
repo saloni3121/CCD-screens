@@ -1,0 +1,43 @@
+/* changed width of text-field and button to 400px */
+.new-project-heading{
+    font-family: Objectivity;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 33px;  
+    color: #000000;
+}
+.newProject-text-field1{
+    width: 450px;
+    height: 60px;
+    left: 660px;
+    top: 441px;
+    
+    border: 1px solid #CCCCCC;
+    box-sizing: border-box;
+    border-radius: 12px;
+}
+
+.new-project-label1{
+    width: 126px;
+    height: 18px;
+    left: 660px;
+    top: 411px;
+    font-weight: 500;
+    font-family: Objectivity;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 18px;
+    
+    color: #000000;
+}
+
+.next-btn-new-project{
+    width: 400px;
+    height: 80px;
+    left: 660px;
+    top: 695px;
+    background: #CCCCCC;
+    border-radius: 12px;
+}
