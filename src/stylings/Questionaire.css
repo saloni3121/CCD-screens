@@ -1,5 +1,5 @@
 .questionaire_title{
-    font-family: Objectivity;
+    font-family: Poppins;
     font-style: normal;
     font-weight: 600;
     font-size: 32px;
@@ -10,7 +10,7 @@
 
 @media (max-width: 375.98px){
     .questionaire_title{
-        font-family: Objectivity;
+        font-family: Poppins;
         font-style: normal;
         font-weight: 600;
         font-size: 24px;
@@ -20,7 +20,7 @@
     }
 
     .questionaire_subheading{
-        font-family: Objectivity;
+        font-family: Poppins;
         font-style: normal;
         font-weight: 500;
         font-size: 16px;
@@ -35,7 +35,7 @@
     }
     
     .next-btn-new-project{
-        font-family: Objectivity;
+        font-family: Poppins;
         font-style: normal;
         font-weight: 600;
         font-size: 20px;
@@ -49,7 +49,7 @@
     }
 }
 .questionaire_subheading{
-    font-family: Objectivity;
+    font-family: Poppins;
     font-style: normal;
     font-weight: 500;
     font-size: 24px;
@@ -65,7 +65,7 @@
 
 .next-btn-new-project{
         
-    font-family: Objectivity;
+    font-family: Poppins;
     font-style: normal;
     font-weight: 600;
     font-size: 20px;

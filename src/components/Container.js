@@ -1,11 +1,13 @@
 import React from 'react'
 
-function Container({children,width}) {
+function Container({children,width,marginTop,padding}) {
     const containerStyle={
         background: '#fff',
         margin:'auto',
         width,
-        marginTop:'10%'
+        marginTop,
+        padding
+        
     }
     return (
         <div style={containerStyle}>
@@ -15,7 +17,9 @@ function Container({children,width}) {
 }
 
 Container.defaultProps={
-  width:'70%'
+  width:'70%',
+  marginTop:'10%',
+  
 }
 
 export default Container

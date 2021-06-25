@@ -1,0 +1,57 @@
+.process-box{
+  width: 915px;
+  margin-top: 40px;
+  border:1px solid #E5E5E5
+}
+
+.process-title-box{
+  background-color: #F5F5F5;
+  padding:30px
+}
+.process-content{
+  padding:0 0 30px 30px;
+}
+.process-card-main-title{
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 29px;
+  color: #1A1934;
+}
+.process-card-title{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 29px;
+    color: #1A1934;
+    margin-top:30px
+}
+.process-card-content{
+    font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 26px;
+margin-top:10px
+}
+
+.process-card-text-area{
+  width:90%;
+  height:100px;
+  margin-top: 20px;
+}
+
+.process_attachments{
+  margin-top: 20px;
+}
+
+.process_attach_box{
+  width: 48px;
+  height: 48px;
+  left: 598px;
+  top: 4396px;
+  background: #e7e7e7;;
+  border-radius: 4px;
+}

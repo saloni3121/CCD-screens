@@ -1,0 +1,57 @@
+.brand_box{
+    width: 915px;
+    /* height: 532px; */
+    border: 1px solid #E5E5E5;
+}
+.brand_header{
+    background-color: #F5F5F5;
+    padding: 30px 30px 15px 30px;
+}
+.brand_title{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 29px;
+    color: #1A1934;
+}
+
+.brand_date{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    margin-top: 10px;
+    color: #1A1934;
+}
+.brand_subheading{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 29px;
+    color: #1A1934;
+    margin-top: 30px;
+}
+.brand_info{
+    width: 751px;
+    text-align: left;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 26px;
+    color: #0D0D0D;
+}
+.brand_listItem{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 26px;
+    color: #0D0D0D;
+}
+.brand_content{
+    padding: 0px 30px 30px 30px;
+
+}
